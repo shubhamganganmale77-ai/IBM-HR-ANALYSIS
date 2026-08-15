@@ -1,3 +1,4 @@
+
 # HR Attrition Analytics — IBM HR Dataset
 
 End-to-end HR analytics project analyzing employee attrition using SQL, Python, and Power BI. Covers data cleaning, exploratory analysis, and an interactive dashboard to identify who is most likely to leave and why.
@@ -70,7 +71,8 @@ Built a fully interactive dashboard with DAX measures, KPI cards, and three cros
 
 
 
-🎥 [Watch dashboard walkthrough](Dashboard/demo_video.mp4)
+🎥 [Watch dashboard walkthrough](Dashboard/demo_video.mp4)<img width="800" height="450" alt="IBM GIF" src="https://github.com/user-attachments/assets/b9939df9-7396-4d08-8dfd-e723ce6bb67d" />
+
 
 **Includes:**
 - KPI cards: Total Employees, Attrition Rate, Avg Monthly Income, Avg Tenure
