@@ -39,6 +39,7 @@ Raw Data → Python Cleaning → SQL Analysis → Python EDA/Visualization → P
   - `Age_Group` (18-25, 26-35, 36-45, 46-60) — fixed-range bins via `pd.cut()`
   - `Tenure_Group` (0-2, 3-5, 6-10, 10+ years) — fixed-range bins via `pd.cut()`
   - `Income_Band` (Low, Medium, High, Very High) — equal-frequency quartile bins via `pd.qcut()`, chosen due to income's right-skewed distribution
+  Full Notebook : <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Cleaning/01_Cleaning.py">Python Cleaning
 
 ## 2. SQL Analysis
 
