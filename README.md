@@ -50,9 +50,8 @@ Raw Data → Python Cleaning → SQL Analysis → Python EDA/Visualization → P
 - **Subqueries (including correlated):** Employees earning above their department's average income, employees with below-average tenure among leavers
 - **CTEs:** Departments with below-average tenure, departments with attrition above 15% (solved two ways — CTE and HAVING — to compare approaches)
 - **Window Functions:** Department ranking by attrition rate (`RANK()`), income ranking within department (`PARTITION BY`), running total of attrition by tenure, income comparison to department average, top-3 earners per department (`ROW_NUMBER()`)
-- Full notebook: 
 
-Full query file: [`SQL_Analysis/hr_attrition_queries.sql`](./SQL_Analysis/hr_attrition_queries.sql)
+- Full query file: a< href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Analysis/HR%20IBM%20SQL.sql">SQL Analysis
 
 ## 3. Exploratory Data Analysis (Python)
 
