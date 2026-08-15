@@ -70,8 +70,7 @@ Built a fully interactive dashboard with DAX measures, KPI cards, and three cros
 <img width="1544" height="864" alt="IBM HR PBI" src="https://github.com/user-attachments/assets/0361976a-354c-477a-9986-291c0251eb6f" />
 
 
-
-🎥 [Watch dashboard walkthrough](Dashboard/demo_video.mp4)<img width="800" height="450" alt="IBM GIF" src="https://github.com/user-attachments/assets/b9939df9-7396-4d08-8dfd-e723ce6bb67d" />
+<img width="800" height="450" alt="IBM GIF" src="https://github.com/user-attachments/assets/b9939df9-7396-4d08-8dfd-e723ce6bb67d" />
 
 
 **Includes:**
