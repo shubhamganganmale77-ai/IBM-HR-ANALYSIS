@@ -66,7 +66,9 @@ Full notebook: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSI
 Built a fully interactive dashboard with DAX measures, KPI cards, and three cross-filtering slicers (Department, Gender, Overtime).
 
 **Dashboard preview:**
-![HR Attrition Dashboard](images/dashboard_screenshot.png)
+<img width="1544" height="864" alt="IBM HR PBI" src="https://github.com/user-attachments/assets/0361976a-354c-477a-9986-291c0251eb6f" />
+
+
 
 🎥 [Watch dashboard walkthrough](Dashboard/demo_video.mp4)
 
