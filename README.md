@@ -62,7 +62,7 @@ Full query file: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALY
 
 Full notebook: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Python%20Visualization%20file/02_Visualization.py">EDA
 
-Key Visualizations:1)Attrition split (pie chart)<img width="1214" height="1278" alt="3)Overall Attrition Split(pie)" src="https://github.com/user-attachments/assets/5b153f4a-d5ab-4644-aaf5-5d53a0770759" />
+Key Visualizations:1)Attrition split (pie chart)<img width="450" height="450" alt="3)Overall Attrition Split(pie)" src="https://github.com/user-attachments/assets/5b153f4a-d5ab-4644-aaf5-5d53a0770759" />
 
 
 ## 4. Interactive Dashboard (Power BI)
