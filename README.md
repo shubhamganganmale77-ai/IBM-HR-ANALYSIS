@@ -75,7 +75,12 @@ Key Visualizations:
 
 3)Age distribution: left vs stayed (histogram):
 
-<img width="650" height="450" alt="10)Age Dist  by Attrition(Hist+kde)" src="https://github.com/user-attachments/assets/38e7b69c-6312-42fc-9165-6320d5dccee7" />
+<img width="750" height="450" alt="10)Age Dist  by Attrition(Hist+kde)" src="https://github.com/user-attachments/assets/38e7b69c-6312-42fc-9165-6320d5dccee7" />
+
+4)Correlation heatmap:
+
+<img width="550" height="550" alt="18)Correlation Of Numeric Variables(Heatmap)" src="https://github.com/user-attachments/assets/33c69402-becf-4046-aaec-2a2f65df7cc8" />
+
 
 
 
