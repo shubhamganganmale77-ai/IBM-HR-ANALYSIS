@@ -124,13 +124,13 @@ Built a fully interactive dashboard with DAX measures, KPI cards, and three cros
 ## Repository Structure
 
 ```
-HR-Analytics-Attrition/
+main/
 ├── Source_data/
-├── Cleaning & Analysis/
+├── Cleaning/
 ├── Cleaned_Dataset/
 ├── SQL_Analysis/
 ├── Visualization/
+├── images(Visualizations)/
 ├── Dashboard/
-├── images/
 └── README.md
 ```
