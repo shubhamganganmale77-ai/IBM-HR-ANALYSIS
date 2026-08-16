@@ -60,7 +60,9 @@ Full query file: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALY
 
 18 visualizations covering univariate, bivariate, and correlation analysis using Matplotlib and Seaborn — including distribution plots, grouped attrition comparisons across every major dimension (department, role, gender, marital status, overtime, tenure, satisfaction, work-life balance), income analysis by job level and department, and a correlation heatmap of key HR metrics.
 
-Full notebook: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Python%20Visualization%20file/02_Visualization.py">EDA
+Full notebook: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Python%20Visualization%20file/02_Visualization.py">Code
+
+Images(Charts): <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/commit/3f69d4e7653896f310779af0065479dd074d88c1">All Visualizations
 
 Key Visualizations:
 
