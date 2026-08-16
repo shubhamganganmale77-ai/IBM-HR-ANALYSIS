@@ -66,6 +66,11 @@ Key Visualizations:1)Attrition split (pie chart)
 
 <img width="450" height="450" alt="3)Overall Attrition Split(pie)" src="https://github.com/user-attachments/assets/5b153f4a-d5ab-4644-aaf5-5d53a0770759" />
 
+2)Attrition by Job Role
+
+<img width="450" height="450" alt="6)Attrition by Job Role(Bar Chart)" src="https://github.com/user-attachments/assets/02db5f47-9e1b-4440-ae54-8ff7fe3ce48c" />
+
+
 
 ## 4. Interactive Dashboard (Power BI)
 
