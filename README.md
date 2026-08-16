@@ -68,7 +68,8 @@ Key Visualizations:1)Attrition split (pie chart)
 
 2)Attrition by Job Role
 
-<img width="750" height="450" alt="6)Attrition by Job Role(Bar Chart)" src="https://github.com/user-attachments/assets/02db5f47-9e1b-4440-ae54-8ff7fe3ce48c" />
+<img width="750" height="450" alt="6)Attrition by Job Role(Bar Chart)" src="https://github.com/user-attachments/assets/090efaf3-b0d3-438c-a2cf-04d859f7e7b6" />
+
 
 
 
