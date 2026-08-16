@@ -62,11 +62,13 @@ Full query file: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALY
 
 Full notebook: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Python%20Visualization%20file/02_Visualization.py">EDA
 
-Key Visualizations:1)Attrition split (pie chart)
+Key Visualizations:
+
+1)Attrition split (pie chart)
 
 <img width="450" height="450" alt="3)Overall Attrition Split(pie)" src="https://github.com/user-attachments/assets/5b153f4a-d5ab-4644-aaf5-5d53a0770759" />
 
-2)Attrition by Job Role
+2)Attrition by Job Role(Bar Chart
 
 <img width="750" height="450" alt="6)Attrition by Job Role(Bar Chart)" src="https://github.com/user-attachments/assets/090efaf3-b0d3-438c-a2cf-04d859f7e7b6" />
 
