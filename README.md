@@ -9,7 +9,7 @@ Analyze the IBM HR Analytics Employee Attrition dataset to identify the key driv
 
 ## Dataset
 
-**Source:** [IBM HR Analytics Employee Attrition & Performance] <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/commit/e36436007f0af919a75262e3a9fb34182d0ec6b3">IBM HR DATASET (Kaggle)
+**Source:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle)
 - **Size:** 1,470 employee records, 35 columns
 - **Fields include:** Age, Attrition, Department, Job Role, Monthly Income, Job Satisfaction, OverTime, Years at Company, Distance From Home, Work-Life Balance, and more.
 
