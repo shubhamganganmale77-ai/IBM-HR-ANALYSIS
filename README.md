@@ -65,13 +65,18 @@ Full notebook: <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSI
 Key Visualizations:
 
 
-1)Attrition split (pie chart)
+1)Attrition split (pie chart):
 
 <img width="450" height="450" alt="3)Overall Attrition Split(pie)" src="https://github.com/user-attachments/assets/5b153f4a-d5ab-4644-aaf5-5d53a0770759" />
 
-2)Attrition by Job Role(Bar Chart
+2)Attrition by Job Role(Bar Chart):
 
 <img width="750" height="450" alt="6)Attrition by Job Role(Bar Chart)" src="https://github.com/user-attachments/assets/090efaf3-b0d3-438c-a2cf-04d859f7e7b6" />
+
+3)Age distribution: left vs stayed (histogram):
+
+<img width="450" height="450" alt="10)Age Dist  by Attrition(Hist+kde)" src="https://github.com/user-attachments/assets/38e7b69c-6312-42fc-9165-6320d5dccee7" />
+
 
 
 
