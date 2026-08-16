@@ -43,6 +43,8 @@ Raw Data → Python Cleaning → SQL Analysis → Python EDA/Visualization → P
   
   Full Notebook : <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Cleaning/01_Cleaning.py">Python Cleaning
 
+  Cleaned Data : <a href="https://github.com/shubhamganganmale77-ai/IBM-HR-ANALYSIS/blob/main/Cleaned_data/Cleaned%20IBM%20HR.csv">Cleaned Dataset
+
 ## 2. SQL Analysis
 
 22 business questions answered using MySQL, progressing from fundamentals to advanced querying:
